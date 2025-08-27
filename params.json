@@ -1,0 +1,6 @@
+{
+  "prefix": { "value": "demoapp" },
+  "location": { "value": "westeurope" },
+  "linuxFxVersion": { "value": "PYTHON|3.11" },
+  "enableSearch": { "value": false }
+}
